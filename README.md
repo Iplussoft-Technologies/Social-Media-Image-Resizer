@@ -5,6 +5,8 @@ You should see the following screen if it is installed properly:
 
 ![](https://raw.githubusercontent.com/Iplussoft-Technologies/Social-Media-Image-Resizer/master/screenshot.png)
 
+![](https://raw.githubusercontent.com/Iplussoft-Technologies/Social-Media-Image-Resizer/master/resizer.png)
+
 # Use Cases
 This tool helps social media users resize their images into an optimized size and applying safe zone (without cropping the images in different devices).
 
